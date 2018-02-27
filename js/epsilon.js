@@ -23,7 +23,7 @@ $(document).ready(function() {
 
 	setInterval(function() {
 		updateImage();
-	}, 3000);
+	}, 5000);
 
 	function updateImage() {
 		if (pic == 1) {
